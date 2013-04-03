@@ -1,0 +1,1 @@
+/opt/local/share/aclocal/gtk-doc.m4
